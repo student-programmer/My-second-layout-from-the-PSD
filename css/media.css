@@ -1,0 +1,42 @@
+@media only screen and (max-width:1600px){
+	.kvadrat1{
+		right:400px;
+	}
+	.kvadrat2{
+		 right:495px;
+	}
+	.kvadrat4{
+		 top:250px;
+    right:400px;
+
+	}
+	 .kvadrat3{
+	 	 top:250px;
+    right:495px;
+	 }
+}
+@media only screen and (max-width:1285px){
+	.kvadrat1{
+		top:70px;
+		right:720px;
+	}
+	.kvadrat2{
+		top:70px;
+		 right:650px;
+	}
+	.kvadrat4{
+		 top:70px;
+		 right:580px;
+
+	}
+	 .kvadrat3{
+	 	 top:70px;
+		 right:510px;
+	 }
+	 .pod-items4{
+	 	left:730px;
+	 }
+	  .pod-items2{
+	 	left:705px;
+	 }
+}
